@@ -1,0 +1,78 @@
+.header-color{
+  background: #283048;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.homepage-grid{
+  background: #283048;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.supercars-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+}
+
+.homepage-text{
+
+  font-family: Freight,HoeflerText-Black,Times New Roman,serif;
+
+}
+
+.homepage-text h1,h6{
+
+  color: white;
+  text-align: center;
+}
+
+.homepage-text hr{
+  margin: auto;
+  width: 50%;
+}
+
+.car-card{
+  display: flex;
+}
+
+.contact-info{
+  margin: auto;
+  background: grey;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-info hr{
+  margin: auto;
+  width: 50%;
+  color: #283048;
+  background-color: #283048;
+}
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 650px;
+  background: white;
+  color: black;
+  border: 2px solid #283048;
+  margin-bottom: 2;
+}
+
+.bookingButtons{
+
+  padding: 8px 14px;
+  height:60px;
+  width:700px;
+  font-size: 20px;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 2px 3px grey;
+}
